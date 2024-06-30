@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotrainIntegrationNETCore", "MotrainIntegrationNETCore\MotrainIntegrationNETCore.csproj", "{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D61E032-E1FD-42CF-9C23-3F974F710366}
+	EndGlobalSection
+EndGlobal

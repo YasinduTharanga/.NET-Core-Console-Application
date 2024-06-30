@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\motrainintegrationnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\motrainintegrationnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\motrainapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\motrainapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\httpgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\httpgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|d:\\improve skills\\projects\\asp.net core console\\motrainintegrationnetcore\\motrainintegrationnetcore\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0338FF6-2895-49E4-A6FE-63F99E58DB3A}|MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj|solutionrelative:motrainintegrationnetcore\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotrainIntegrationNETCore",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\MotrainIntegrationNETCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T16:58:59.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotrainAPI.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\MotrainAPI.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\MotrainAPI.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\MotrainAPI.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\MotrainAPI.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:44:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\Logger.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\Logger.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\Logger.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\Logger.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAuwP4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:38:46.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\UserRepository.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\UserRepository.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:48:19.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\User.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\User.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\User.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:45:44.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpGetService.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\HttpGetService.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\HttpGetService.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\HttpGetService.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\HttpGetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:17:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\DataContext.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\DataContext.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\DataContext.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\DataContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:15:24.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\Program.cs",
+              "RelativeDocumentMoniker": "MotrainIntegrationNETCore\\Program.cs",
+              "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET Core Console\\MotrainIntegrationNETCore\\MotrainIntegrationNETCore\\Program.cs",
+              "RelativeToolTip": "MotrainIntegrationNETCore\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:11:53.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
